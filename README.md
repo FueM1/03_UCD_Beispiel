@@ -1,4 +1,4 @@
-#UML-Use-Case-Diagramm (Anwendungsfall)
+# UML-Use-Case-Diagramm (Anwendungsfall)
 
 ## Ausgangsszenario
 Ein Kunde, eine Pizzeria-Lieferservice-Kette, der IT-Firma ConSystem GmbH möchte für seine einzelnen Filialen eine Bestellsoftware einsetzen. Eine Standardlösung eines großen Softwarehauses kommt für ihn nicht infrage, vielmehr soll eine individuelle, einfach zu bedienende Software eingesetzt werden. 
